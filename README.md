@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abasiofon-cypto
-- 👀 I’m interested in html/css/JavaScript 
-- 🌱 I’m currently learning html/css/JavaScript 
+- 👋 Hi, I’m @Abasiofon-Sendan
+- 👀 I’m interested in BackEnd development 
+- 🌱 I’m currently working with python and Django 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 08129476753
 
